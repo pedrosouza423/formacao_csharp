@@ -4,19 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _3_CriandoVariaveisFlutuante
+namespace _6_AtribuiçõesDeVariaveis
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double salario = 1200.7;
-
-            Console.WriteLine(salario);
-
             int idade = 25;
+            int idadePedro = idade;
 
-            
+            idade += 5;
+
+            Console.WriteLine(idadePedro);
+
 
             Console.WriteLine("Para finalizar o programa, tecle enter...");
             Console.ReadLine();

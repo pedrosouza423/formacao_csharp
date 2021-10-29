@@ -4,19 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _3_CriandoVariaveisFlutuante
+namespace _7_Condicionais
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double salario = 1200.7;
+            int idadePedro = 16;
+            bool acompanhado = true;
 
-            Console.WriteLine(salario);
-
-            int idade = 25;
-
-            
+            if (idadePedro >=18 && acompanhado)
+            {
+                Console.WriteLine("Pode entrar");
+            }
+            else
+            {
+                Console.WriteLine("Não pode entrar");
+            }
 
             Console.WriteLine("Para finalizar o programa, tecle enter...");
             Console.ReadLine();

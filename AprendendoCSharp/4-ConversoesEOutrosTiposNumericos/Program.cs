@@ -4,19 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _3_CriandoVariaveisFlutuante
+namespace _4_ConversoesEOutrosTiposNumericos
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double salario = 1200.7;
+            double salario = 1500.5;
+            int salarioInt = (int)salario;
 
-            Console.WriteLine(salario);
-
-            int idade = 25;
-
-            
+            //Numeros acima de 2 bilhões use o tipo long
+            //shor é uma quantidade de numero pequeno
 
             Console.WriteLine("Para finalizar o programa, tecle enter...");
             Console.ReadLine();

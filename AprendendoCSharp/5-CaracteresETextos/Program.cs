@@ -4,19 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _3_CriandoVariaveisFlutuante
+namespace _5_CaracteresETextos
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double salario = 1200.7;
+            char sexo = 'm';
+            string nome = "Pedro";
 
-            Console.WriteLine(salario);
 
-            int idade = 25;
-
-            
+            Console.WriteLine(sexo);
 
             Console.WriteLine("Para finalizar o programa, tecle enter...");
             Console.ReadLine();

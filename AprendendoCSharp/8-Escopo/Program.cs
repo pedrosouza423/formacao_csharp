@@ -4,19 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _3_CriandoVariaveisFlutuante
+namespace _8_Escopo
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double salario = 1200.7;
+            bool acompanhado = true;
+            string nome;
 
-            Console.WriteLine(salario);
+            if (acompanhado)
+            {
+                nome = "Pedro";
+            }
+            else
+            {
+                nome = null;
+            }
 
-            int idade = 25;
-
-            
+            Console.WriteLine(nome);
 
             Console.WriteLine("Para finalizar o programa, tecle enter...");
             Console.ReadLine();

@@ -1,0 +1,6 @@
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\6-AtribuiçõesDeVariaveis\bin\Debug\6-AtribuiçõesDeVariaveis.exe.config
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\6-AtribuiçõesDeVariaveis\bin\Debug\6-AtribuiçõesDeVariaveis.exe
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\6-AtribuiçõesDeVariaveis\bin\Debug\6-AtribuiçõesDeVariaveis.pdb
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\6-AtribuiçõesDeVariaveis\obj\Debug\6-AtribuiçõesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\6-AtribuiçõesDeVariaveis\obj\Debug\6-AtribuiçõesDeVariaveis.exe
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\6-AtribuiçõesDeVariaveis\obj\Debug\6-AtribuiçõesDeVariaveis.pdb
