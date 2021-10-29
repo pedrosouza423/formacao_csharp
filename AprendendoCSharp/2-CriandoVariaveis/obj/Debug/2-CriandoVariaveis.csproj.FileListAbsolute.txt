@@ -1,7 +1,6 @@
-C:\Users\Pedro\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
-C:\Users\Pedro\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
-C:\Users\Pedro\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
-C:\Users\Pedro\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.AssemblyReference.cache
-C:\Users\Pedro\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
-C:\Users\Pedro\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
-C:\Users\Pedro\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb

@@ -1,0 +1,7 @@
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\3-CriandoVariaveisFlutuante\bin\Debug\3-CriandoVariaveisFlutuante.exe.config
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\3-CriandoVariaveisFlutuante\bin\Debug\3-CriandoVariaveisFlutuante.exe
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\3-CriandoVariaveisFlutuante\bin\Debug\3-CriandoVariaveisFlutuante.pdb
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\3-CriandoVariaveisFlutuante\obj\Debug\3-CriandoVariaveisFlutuante.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\3-CriandoVariaveisFlutuante\obj\Debug\3-CriandoVariaveisFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\3-CriandoVariaveisFlutuante\obj\Debug\3-CriandoVariaveisFlutuante.exe
+C:\Users\DTI Digital\Documents\MeusProjetos\formacao_csharp\AprendendoCSharp\3-CriandoVariaveisFlutuante\obj\Debug\3-CriandoVariaveisFlutuante.pdb

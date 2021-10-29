@@ -4,18 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2_CriandoVariaveis
+namespace _3_CriandoVariaveisFlutuante
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto 2 - Criando Variaveis");
-            int idade = 20;
-            string nome = "Pedro";
-            idade += 15;
-            Console.WriteLine("O meu nome é "+nome + " e minha idade é "+idade);
+            double salario = 1200.7;
 
+            Console.WriteLine(salario);
 
             Console.WriteLine("Para finalizar o programa, tecle enter...");
             Console.ReadLine();
